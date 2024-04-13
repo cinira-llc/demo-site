@@ -1,7 +1,7 @@
-export default function Home() {
+export default function CalculatorsPage() {
   return (
     <div className="relative flex place-items-center">
-      Home
+      Calculators
     </div>
   );
-}
+};
